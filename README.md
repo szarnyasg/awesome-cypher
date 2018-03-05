@@ -16,7 +16,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [AgensGraph](https://github.com/bitnine-oss/agensgraph): a transactional graph database based on PostgreSQL
 * [Cypher for Apache Spark (CAPS)](https://github.com/opencypher/cypher-for-apache-spark): run Cypher queries on Spark
 * [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin): run Cypher queries on Gremlin-compatible databases
-* [Gradoop](https://github.com/dbs-leipzig/gradoop): Scalable Graph Data Management and Analytics with Hadoop grades
+* [Gradoop](https://github.com/dbs-leipzig/gradoop): a distributed dataflow system for graph analytics and querying
 * [Graphflow](https://github.com/graphflow/graphflow): an active graph database
 * [ingraph](https://github.com/FTSRG/ingraph): an incremental openCypher engine
 * [Neo4j](https://github.com/neo4j/neo4j): the original Cypher graph database
