@@ -55,6 +55,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [GraphAware blog](https://graphaware.com/blog/cypher/)
 * [Graphistania podcasts](http://blog.bruggen.com/search/label/cypher): interviews by Rik van Bruggen
 * [Neo4j blog](https://neo4j.com/tag/cypher/)
+* [Graph-Theory](https://github.com/michelcaradec/Graph-Theory): A workshop about implementing graph theory with Neo4j
 
 ## Books
 
