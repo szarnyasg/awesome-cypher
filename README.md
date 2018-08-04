@@ -40,6 +40,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [ocparse](https://github.com/walter-weinmann/ocparse): an Erlang-based parser
 * [openCypher](http://www.opencypher.org/): home of the openCypher initiative
 * [Slizaa openCypher Xtext](https://github.com/slizaa/slizaa-opencypher-xtext): an Xtext-based grammar and editor for Cypher
+* [The Cypher Front End Modules](https://github.com/opencypher/front-end): parsing, AST and semantic analysis for the Cypher Query Language
 
 ## Applications
 
