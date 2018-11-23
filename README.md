@@ -20,6 +20,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [Graphflow](https://github.com/graphflow/graphflow): an active graph database
 * [ingraph](https://github.com/FTSRG/ingraph): an incremental openCypher engine
 * [Neo4j](https://github.com/neo4j/neo4j): the original Cypher graph database
+* [RedisGraph](https://oss.redislabs.com/redisgraph/):  the first queryable property graph database which uses sparse matrices to represent the adjacency matrix in graphs and linear algebra to execute Cypher queries on the graph
 * [Ruruki](https://github.com/optiver/ruruki): a Python-based Cypher engine
 * [SAP HANA Graph](https://help.sap.com/viewer/f381aa9c4b99457fb3c6b53a2fd29c02/2.0.02/en-US): the Graph Extension to the SAP HANA database
 
