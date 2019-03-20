@@ -17,7 +17,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [Cypher for Apache Spark (CAPS)](https://github.com/opencypher/cypher-for-apache-spark): run Cypher queries on Spark
 * [Cypher for Gremlin](https://github.com/opencypher/cypher-for-gremlin): run Cypher queries on Gremlin-compatible databases
 * [Gradoop](https://github.com/dbs-leipzig/gradoop): a distributed dataflow system for graph analytics and querying
-* [Graphflow](https://github.com/graphflow/graphflow): an active graph database
+* [Graphflow](http://graphflow.io/): an active graph database
 * [ingraph](https://github.com/FTSRG/ingraph): an incremental openCypher engine
 * [Neo4j](https://github.com/neo4j/neo4j): the original Cypher graph database
 * [RedisGraph](https://oss.redislabs.com/redisgraph/):  the first queryable property graph database which uses sparse matrices to represent the adjacency matrix in graphs and linear algebra to execute Cypher queries on the graph
