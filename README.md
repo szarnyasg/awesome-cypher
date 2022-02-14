@@ -41,13 +41,13 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [Neo4jCypher (DSL in MPS)](https://github.com/corlab/Neo4jCypher): an MPS-based DSL for Cypher
 * [ocparse](https://github.com/walter-weinmann/ocparse): an Erlang-based parser
 * [openCypher](http://www.opencypher.org/): home of the openCypher initiative
-* [Slizaa openCypher Xtext](https://github.com/slizaa/slizaa-opencypher-xtext): an Xtext-based grammar and editor for Cypher
+* [openCypher Xtext](https://github.com/code-kontor/openCypher-Xtext): an Xtext-based grammar and editor for Cypher
 * [The Cypher Front End Modules](https://github.com/opencypher/front-end): parsing, AST and semantic analysis for the Cypher Query Language
 
 ## Applications
 
 * [jQAssistant](https://jqassistant.org/): QA tool for checking validation rules with Cypher
-* [Slizaa](https://github.com/slizaa/slizaa): an interactive and customizable software architecture workbench
+* [Slizaa](https://github.com/slizaa): an interactive and customizable software architecture workbench
 
 ## Generators
 
