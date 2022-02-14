@@ -72,8 +72,9 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [Neo4j-Users Slack](https://neo4j.com/developer/slack/)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/cypher)
 
-## GQL
+## GQL and SQL/PGQ
 
+* [GQL and SQL/PGQ pointers](https://github.com/szarnyasg/gql-sql-pgq-pointers)
 * [GQL homepage](https://www.gqlstandards.org/): a site for sharing information and ideas about the ongoing development of the GQL standard proposal
 * [GQL manifesto](https://gql.today/): an initiative to have one standard property graph query language
 
