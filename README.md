@@ -24,7 +24,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 * [Neo4j](https://github.com/neo4j/neo4j): the original Cypher graph database
 * [RedisGraph](https://oss.redislabs.com/redisgraph/):  the first queryable property graph database which uses sparse matrices to represent the adjacency matrix in graphs and linear algebra to execute Cypher queries on the graph
 * [Ruruki](https://github.com/optiver/ruruki): a Python-based Cypher engine
-* [Samyama Graph](https://github.com/samyama-ai/samyama-graph): a Rust graph-vector database with a published [openCypher compatibility matrix](https://github.com/samyama-ai/samyama-graph/blob/main/docs/CYPHER_COMPATIBILITY.md) — 78 probes, 77 supported — combining graph traversal with HNSW vector search
+* [Samyama Graph](https://github.com/samyama-ai/samyama-graph): a Rust graph-vector database combining graph traversal with HNSW vector search
 * [SAP HANA Graph](https://help.sap.com/viewer/f381aa9c4b99457fb3c6b53a2fd29c02/2.0.02/en-US): the Graph Extension to the SAP HANA database
 
 ## Libraries
