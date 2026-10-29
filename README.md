@@ -30,6 +30,7 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 ## Libraries
 
 * [Awesome Procedures on Cypher (APOC)](https://github.com/neo4j-contrib/neo4j-apoc-procedures): stored procedure library for Cypher
+* [Drivine](https://github.com/liberation-data/drivine): graph database client for TypeScript, Python and the JVM; runs Cypher as written on Neo4j, Memgraph, FalkorDB and Amazon Neptune, and compiles it to SQL on Postgres, Oracle and (in the JVM library) SQLite
 * [Efficient Graph Algorithms for Neo4j](https://github.com/neo4j-contrib/neo4j-graph-algorithms): common graph algorithms for Neo4j 3.x exposed as Cypher procedures
 * [JCypher](https://github.com/Wolfgang-Schuetzelhofer/jcypher): Java access to Neo4j
 * [Pypher](https://github.com/emehrkay/Pypher): Python Cypher Querybuilder
