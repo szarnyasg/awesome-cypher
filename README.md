@@ -76,6 +76,8 @@ A curated list of resources for the Cypher and the openCypher graph query langua
 
 ## GQL and SQL/PGQ
 
+* [GQL Essentials](https://gql.fyi/) by Dominik Tomaszuk: a free online book introducing GQL, its syntax, data model and formal semantics
+
 * [GQL and SQL/PGQ pointers](https://github.com/szarnyasg/gql-sql-pgq-pointers)
 * [GQL homepage](https://www.gqlstandards.org/): a site for sharing information and ideas about the ongoing development of the GQL standard proposal
 * [GQL manifesto](https://gql.today/): an initiative to have one standard property graph query language
